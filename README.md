@@ -42,8 +42,6 @@ Open the .jlib file ( provided in this repo ) in Electric to explore the schemat
 
 - Verified input/output waveform behavior
 
-📸 Screenshots available in /schematic folder
-
 ![CMOS Inverter Schematic](https://github.com/user-attachments/assets/e0770b2c-3472-4037-9403-a40a050d12e2)
 
 ### ✅ Step 2: Layout Design
@@ -52,8 +50,6 @@ Open the .jlib file ( provided in this repo ) in Electric to explore the schemat
 - PMOS and NMOS sized for balance
 
 - Used proper VDD, GND, and polysilicon routing
-
-📸 Check /layout folder for GDS and screenshots
 
 ![CMOS Inverter Layout](https://github.com/user-attachments/assets/87d04ce8-a673-4124-9465-66e11b4234bc)
 
@@ -68,8 +64,6 @@ Open the .jlib file ( provided in this repo ) in Electric to explore the schemat
 - Applied pulse input to simulate inverter behavior
 
 - Captured waveform using internal simulation tools
-
-📊 Waveform screenshots in /waveforms folder
 
 ![CMOS Inverter Simulation](https://github.com/user-attachments/assets/be13b3ab-c046-4d73-8d67-b3d97a035ec9)
 
