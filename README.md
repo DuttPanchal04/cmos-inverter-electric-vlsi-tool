@@ -8,12 +8,12 @@ This project demonstrates the complete design, layout, simulation, and verificat
 
 ## 📂 Project Contents
 
-| File / Folder | Description |
+| File  | Description |
 |---------------|-------------|
-| `/schematic/` | CMOS Inverter schematic (.jlib or exported images) |
-| `/layout/` | Layout view with GDS export |
-| `/waveforms/` | Output waveforms captured from simulation |
-| `/videos/` | Complete working video (MP4 / YouTube link) |
+| `schematic` | CMOS Inverter schematic (.jlib or exported images) |
+| `layout` | Layout view with GDS export |
+| `waveform` | Output waveforms captured from simulation |
+| `video` | Complete working video (MP4 / YouTube link) |
 | `README.md` | This documentation file |
 | `LICENSE` | (Optional) MIT or other license |
 
