@@ -93,6 +93,53 @@ Output correctly inverts the input signal with expected propagation delay.
 - Importance of DRC/LVS in custom digital design
 - Delay observed due to rise/fall asymmetry, next step: size adjustment
 
+## 🤝 Contribute & Collaborate
+This project is open for contributions and collaborative learning! Whether you're a student, hobbyist, or industry professional, you're welcome to:
+
+- 🔧 Improve and Optimize
+- 🔄 Delay Optimization: Suggest or implement better transistor sizing or layout improvements to reduce propagation delay.
+- 🔍 Performance Analysis: Simulate with different input pulse widths, supply voltages, or load capacitances.
+- ⚡ Power vs Speed Trade-off: Explore dynamic/static power improvements.
+
+## 💡 Design Variants: 
+- Extend the project to include: NAND, NOR, XOR gates
+- Transmission-gate-based inverters
+- CMOS level shifters
+
+## 🧰 Toolchain Integration
+- 📤 Export GDS and verify with tools like KLayout or Magic
+- 🔁 Perform LVS (Layout vs Schematic) if supported
+- 📡 Integrate with open PDKs like SkyWater130 (experimental)
+
+## 🛠️ Feature Enhancements
+- 📘 Add detailed transistor sizing guide
+- 🎥 Add narration to the existing video or new simulation videos
+- 📄 Include timing diagrams and truth tables in Markdown/LaTeX
+
+## 📝 How to Contribute
+
+- Fork this repository
+- Clone your fork:
+```
+git clone https://github.com/yourusername/cmos-inverter-electric-vlsi-tool.git
+```
+- Create a new branch:
+```
+git checkout -b improve-delay-sizing
+```
+- Make your changes, commit, and push:
+```
+git add .
+git commit -m "Optimized NMOS/PMOS sizing to reduce delay"
+git push origin improve-delay-sizing
+```
+- Open a Pull Request from your branch to the main branch.
+
+## 💬 Let's Collaborate
+- If you have ideas, questions, or need help getting started:
+- Open an Issue on [GitHub](https://github.com/DuttPanchal04)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/dattpanchal04/) to collaborate or showcase your forks!
+
 ## 🧠 Author
 - Maintained by: Dutt Panchal
 - 🔗 Email: dattpanchal2904@gmail.com
