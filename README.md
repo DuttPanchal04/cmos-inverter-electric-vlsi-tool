@@ -8,7 +8,7 @@ This project demonstrates the complete design, layout, simulation, and verificat
 
 ## 📂 Project Contents
 
-| File  | Description |
+| File / Folder | Description |
 |---------------|-------------|
 | `schematic` | CMOS Inverter schematic (.jlib or exported images) |
 | `layout` | Layout view with GDS export |
