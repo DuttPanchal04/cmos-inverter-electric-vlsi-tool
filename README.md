@@ -115,7 +115,7 @@ This project is open for contributions and collaborative learning! Whether you'r
 - Fork this repository
 - Clone your fork:
 ```
-git clone https://github.com/yourusername/cmos-inverter-electric-vlsi-tool.git
+git clone https://github.com/DuttPanchal04/cmos-inverter-electric-vlsi-tool.git
 ```
 - Create a new branch:
 ```
